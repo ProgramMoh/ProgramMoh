@@ -21,19 +21,6 @@
 <a href="https://www.python.org/" title="Python"><img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
 <a href="https://git-scm.com/" title="Git"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
 </p>
-
-
-## 📊 MY Github Stats
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Mohamed's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ProgramMoh&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
-  
-  </a>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ProgramMoh&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="ProgramMoh" height="230px"/>
-<br/>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ProgramMoh&theme=tokyonight_duo" alt="ProgramMoh" /></p>
-<br/>
-</p>
   
 ----
 <summary><b>⚡ Git profile Trophies</b></summary>
