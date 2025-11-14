@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <h1 align="center">Hello 👋, I'm Mohamed Elnaggar</h1>
 <h3 align="center">Interested in Full-Stack Development and Data-Driven Systems</h3>
