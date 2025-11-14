@@ -1,9 +1,6 @@
 
 <h1 align="center">Hello 👋, I'm Mohamed Elnaggar</h1>
 <h3 align="center">Interested in Full-Stack Development and Data-Driven Systems</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ProgramMoh&label=Profile%20views&color=0e75b6&style=flat" alt="ProgramMoh" />
-                   <img src="https://img.shields.io/github/followers/ProgramMoh?label=Followers" alt="ProgramMoh" />
-</p>
 
 <br>
 
