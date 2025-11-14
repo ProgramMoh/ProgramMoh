@@ -26,7 +26,7 @@
 ## 📊 MY Github Stats
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Ammar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ProgramMoh&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
+    <img alt="Mohamed's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ProgramMoh&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
   
   </a>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ProgramMoh&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="ProgramMoh" height="230px"/>
