@@ -44,14 +44,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ProgramMoh&layout=compact&theme=algolia" alt="ProgramMoh" /></a> </p>
 
-
-<summary><b>⚡ Recent GitHub Activity</b></summary>
-<br/>
-<a href="https://github.com/ProgramMoh"><img alt="Mohamed's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ProgramMoh&custom_title=Mohamed%20Emad%27s%20Contribution%20Graph&theme=react-dark" /></a>
-<br/> 
-
-
-
 <!--
 **ProgramMoh/ProgramMoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
