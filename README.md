@@ -41,7 +41,6 @@ Here are some of the technologies, tools, and languages I've worked with:
   <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
   <a href="https://pytorch.org/" title="PyTorch"><img src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white" alt="PyTorch"></a>
   <a href="https://scikit-learn.org/" title="scikit-learn"><img src="https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white" alt="scikit-learn"></a>
-  
   <a href="https://www.sqlite.org/" title="SQLite"><img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white" alt="SQLite"></a>
   <a href="https://www.tensorflow.org/" title="TensorFlow"><img src="https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white" alt="TensorFlow"></a>
 </p>
