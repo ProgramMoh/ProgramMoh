@@ -9,6 +9,18 @@
 <a href="https://www.linkedin.com/in/mgmelnaggar/" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
+---
+
+## 👤 About Me
+
+[cite_start]I'm a New Grad Software Engineer from the University of Calgary with a passion for building scalable, data-focused platforms and predictive analytics solutions[cite: 4, 9]. [cite_start]I have a strong foundation in backend development, data engineering, and cloud architectures, with hands-on experience in building real-time telemetry systems[cite: 4, 5].
+
+* [cite_start]🌱 I’m currently developing an **ML Quant Finance web application** [cite: 6] [cite_start]and pursuing my **AWS Solutions Architect** & **AI Practitioner** certifications[cite: 7].
+* 🎯 I'm actively seeking new grad roles in Data Science, Control Systems, and Full-Stack Development.
+* 💬 Ask me about Python, data pipelines, real-time telemetry, or embedded systems!
+
+---
+
 ## 🛠️ My Tech Stack
 
 Here are some of the technologies, tools, and languages I've worked with:
@@ -90,6 +102,14 @@ Here are some of the technologies, tools, and languages I've worked with:
   <a href="https://github.com/badges/shields/pull/9440" title="Slack"><img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff" alt="Slack"></a>
   <a href="https://squarespace.com/" title="SquareSpace"><img src="https://img.shields.io/badge/Squarespace-000000?logo=squarespace&logoColor=fff" alt="SquareSpace"></a>
   <a href="https://trello.com/" title="Trello"><img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff" alt="Trello"></a>
+</p>
+
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ProgramMoh&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Mohamed Elnaggar's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgramMoh&layout=compact&theme=radical&hide_border=true" alt="Mohamed Elnaggar's Top Languages" />
 </p>
 
 <!--
