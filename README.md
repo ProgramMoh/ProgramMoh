@@ -13,9 +13,9 @@
 
 ## 👤 About Me
 
-[cite_start]I'm a New Grad Software Engineer from the University of Calgary with a passion for building scalable, data-focused platforms and predictive analytics solutions[cite: 4, 9]. [cite_start]I have a strong foundation in backend development, data engineering, and cloud architectures, with hands-on experience in building real-time telemetry systems[cite: 4, 5].
+I'm a New Grad Software Engineer from the University of Calgary with a passion for building scalable, data-focused platforms and predictive analytics solutions. I have a strong foundation in backend development, data engineering, and cloud architectures, with hands-on experience in building real-time telemetry systems.
 
-* [cite_start]🌱 I’m currently developing an **ML Quant Finance web application** [cite: 6] [cite_start]and pursuing my **AWS Solutions Architect** & **AI Practitioner** certifications[cite: 7].
+* 🌱 I’m currently developing an **ML Quant Finance web application** and pursuing my **AWS Solutions Architect** & **AI Practitioner** certifications.
 * 🎯 I'm actively seeking new grad roles in Data Science, Control Systems, and Full-Stack Development.
 * 💬 Ask me about Python, data pipelines, real-time telemetry, or embedded systems!
 
