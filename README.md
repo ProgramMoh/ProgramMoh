@@ -31,16 +31,16 @@
 <a href="https://junit.org/" title="JUnit"><img src="https://img.shields.io/badge/JUnit5-C21325?logo=junit5&logoColor=fff" alt="JUnit"></a>
 <a href="https://kubernetes.io/" title="Kubernetes"><img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff" alt="Kubernetes"></a>
 <a href="https://langchain.com/" title="Langchain"><img src="https://img.shields.io/badge/LangChain-1c3c3c.svg?logo=langchain&logoColor=white" alt="Langchain"></a>
-https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white
-https://img.shields.io/badge/nginx-009639?logo=nginx&logoColor=fff
-https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white
-https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white
-https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff
-https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white
-https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white
-https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff
-https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff
-https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff
+<a href="https://nextjs.org/" title="Next.js"><img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" alt="Next.js"></a>
+<a href="https://www.nginx.com/" title="nginx"><img src="https://img.shields.io/badge/nginx-009639?logo=nginx&logoColor=fff" alt="nginx"></a>
+<a href="https://nodejs.org/" title="Node.js"><img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" alt="Node.js"></a>
+<a href="https://pytorch.org/" title="PyTorch"><img src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white" alt="PyTorch"></a>
+<a href="https://www.selenium.dev/" title="Selenium"><img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff" alt="Selenium"></a>
+<a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" alt="Tailwind CSS"></a>
+<a href="https://www.tensorflow.org/" title="TensorFlow"><img src="https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white" alt="TensorFlow"></a>
+<a href="https://threejs.org/" title="Three.js"><img src="https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff" alt="Three.js"></a>
+<a href="https://vitejs.dev/" title="Vite"><img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff" alt="Vite"></a>
+<a href="https://vuejs.org/" title="Vue.js"><img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff" alt="Vue.js"></a>
 
 </p>
 
