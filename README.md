@@ -82,7 +82,6 @@ Here are some of the technologies, tools, and languages I've worked with:
   <a href="https://git-scm.com/" title="Git"><img src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white" alt="Git"></a>
   <a href="https://github.com/" title="GitHub"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://www.atlassian.com/software/jira" title="Jira"><img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff" alt="Jira"></a>
-  <a href="https://www.json.org/" title="JSON"><img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff" alt="JSON"></a>
   <a href="https://junit.org/" title="JUnit"><img src="https://img.shields.io/badge/JUnit5-C21325?logo=junit5&logoColor=fff" alt="JUnit"></a>
   <a href="https://miro.com/" title="Miro"><img src="https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=fff" alt="Miro"></a>
   <a href="https://www.notion.so/" title="Notion"><img src="https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff" alt="Notion"></a>
