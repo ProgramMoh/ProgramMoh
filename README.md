@@ -104,13 +104,14 @@ Here are some of the technologies, tools, and languages I've worked with:
   <a href="https://trello.com/" title="Trello"><img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff" alt="Trello"></a>
 </p>
 
+<!--
 ## 📊 My GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgramMoh&layout=compact&theme=radical&hide_border=true&hide=gnuplot" alt="Mohamed's Top Languages" />
 </p>
 
-<!--
+
 **ProgramMoh/ProgramMoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
