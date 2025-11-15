@@ -85,7 +85,7 @@ Here are some of the technologies, tools, and languages I've worked with:
 
 ### 🤝 Tools & Collaboration
 <p align="center">
-  <a href="httpsf://www.figma.com/" title="Figma"><img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma"></a>
+  <a href="https://www.figma.com/" title="Figma"><img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma"></a>
   <a href="https://git-scm.com/" title="Git"><img src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white" alt="Git"></a>
   <a href="https://github.com/" title="GitHub"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://www.atlassian.com/software/jira" title="Jira"><img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff" alt="Jira"></a>
@@ -95,7 +95,7 @@ Here are some of the technologies, tools, and languages I've worked with:
   <a href="https://www.notion.so/" title="Notion"><img src="https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff" alt="Notion"></a>
   <a href="https://readme.com/" title="ReadMe"><img src="https://img.shields.io/badge/ReadMe-018EF5?logo=readme&logoColor=fff" alt="ReadMe"></a>
   <a href="https://www.selenium.dev/" title="Selenium"><img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff" alt="Selenium"></a>
-  <a href="https_github.com/badges/shields/pull/9440" title="Slack"><img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff" alt="Slack"></a>
+  <a href="https://github.com/badges/shields/pull/9440" title="Slack"><img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff" alt="Slack"></a>
   <a href="https://squarespace.com/" title="SquareSpace"><img src="https://img.shields.io/badge/Squarespace-000000?logo=squarespace&logoColor=fff" alt="SquareSpace"></a>
   <a href="https://trello.com/" title="Trello"><img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff" alt="Trello"></a>
 </p>
