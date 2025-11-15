@@ -107,7 +107,7 @@ Here are some of the technologies, tools, and languages I've worked with:
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ProgramMoh&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Mohamed Elnaggar's GitHub Stats" />
+  <img src="https://github-readme-contribution-graph.vercel.app/api?username=ProgramMoh&theme=radical&hide_border=true" alt="Mohamed Elnaggar's Contribution Graph"/>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgramMoh&layout=compact&theme=radical&hide_border=true&hide=gnuplot" alt="Mohamed's Top Languages" />
 </p>
