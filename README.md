@@ -27,7 +27,20 @@
 <a href="https://expressjs.com/" title="Express.js"><img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB" alt="Express.js"></a>
 <a href="https://fastapi.tiangolo.com/" title="FastAPI"><img src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white" alt="FastAPI"></a>
 <a href="https://graphql.org/" title="GraphQL"><img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff" alt="GraphQL"></a>
-
+<a href="https://JQuery.com/" title="JQuery"><img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff" alt="JQuery"></a>
+<a href="https://junit.org/" title="JUnit"><img src="https://img.shields.io/badge/JUnit5-C21325?logo=junit5&logoColor=fff" alt="JUnit"></a>
+<a href="https://kubernetes.io/" title="Kubernetes"><img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff" alt="Kubernetes"></a>
+<a href="https://langchain.com/" title="Langchain"><img src="https://img.shields.io/badge/LangChain-1c3c3c.svg?logo=langchain&logoColor=white" alt="Langchain"></a>
+https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white
+https://img.shields.io/badge/nginx-009639?logo=nginx&logoColor=fff
+https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white
+https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white
+https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff
+https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white
+https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white
+https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff
+https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff
+https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff
 
 </p>
 
