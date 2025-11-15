@@ -22,11 +22,6 @@
 <a href="https://git-scm.com/" title="Git"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
 </p>
   
-----
-<summary><b>⚡ Git profile Trophies</b></summary>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ProgramMoh&layout=compact&theme=algolia" alt="ProgramMoh" /></a> </p>
-
 <!--
 **ProgramMoh/ProgramMoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
