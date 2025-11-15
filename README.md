@@ -42,6 +42,54 @@
 <a href="https://vitejs.dev/" title="Vite"><img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff" alt="Vite"></a>
 <a href="https://vuejs.org/" title="Vue.js"><img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff" alt="Vue.js"></a>
 
+<a href="https://azure.microsoft.com/" title="Microsoft Azure"><img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white" alt="Microsoft Azure"></a>
+<a href="https://www.eclipse.org/" title="Eclipse"><img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white" alt="Eclipse"></a>
+<a href="https://www.gnu.org/software/emacs/" title="Emacs"><img src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&logo=gnu-emacs&logoColor=white" alt="Emacs"></a>
+<a href="https://www.jetbrains.com/idea/" title="IntelliJ IDEA"><img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"></a>
+<a href="https://cursor.sh/" title="Cursor"><img src="https://custom-icon-badges.demolab.com/badge/Cursor-000000?logo=cursor-ai-white" alt="Cursor"></a>
+<a href="https://www.jetbrains.com/pycharm/" title="PyCharm"><img src="https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff" alt="PyCharm"></a>
+<a href="https://replit.com/" title="Replit"><img src="https://img.shields.io/badge/Replit-F26207?logo=replit&logoColor=fff" alt="Replit"></a>
+<a href="https://www.vim.org/" title="Vim"><img src="https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white" alt="Vim"></a>
+<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white" alt="Visual Studio Code"></a>
+<a href="https://developer.apple.com/xcode/" title="Xcode"><img src="https://img.shields.io/badge/Xcode-007ACC?logo=Xcode&logoColor=white" alt="Xcode"></a>
+<a href="https://www.atlassian.com/software/jira" title="Jira"><img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff" alt="Jira"></a>
+<a href="https://miro.com/" title="Miro"><img src="https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=fff" alt="Miro"></a>
+<a href="httpsA://slack.com/" title="Slack"><img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff" alt="Slack"></a>
+<a href="https://trello.com/" title="Trello"><img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff" alt="Trello"></a>
+
+<a href="https://firebase.google.com/" title="Firebase"><img src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white" alt="Firebase"></a>
+<a href="https://www.mongodb.com/" title="MongoDB"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" alt="MongoDB"></a>
+<a href="https://www.mysql.com/" title="MySQL"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" alt="MySQL"></a>
+<a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
+<a href="https://www.sqlite.org/" title="SQLite"><img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white" alt="SQLite"></a>
+<a href="https://supabase.com/" title="Supabase"><img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff" alt="Supabase"></a>
+<a href="https://matplotlib.org/" title="Matplotlib"><img src="https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff" alt="Matplotlib"></a>
+<a href="https://numpy.org/" title="NumPy"><img src="https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff" alt="NumPy"></a>
+<a href="https://pandas.pydata.org/" title="Pandas"><img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff" alt="Pandas"></a>
+<a href="https://scikit-learn.org/" title="scikit-learn"><img src="https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white" alt="scikit-learn"></a>
+<a href="httpsf://www.figma.com/" title="Figma"><img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma"></a>
+<a href="https://www.notion.so/" title="Notion"><img src="https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff" alt="Notion"></a>
+<a href="https://readme.com/" title="ReadMe"><img src="https://img.shields.io/badge/ReadMe-018EF5?logo=readme&logoColor=fff" alt="ReadMe"></a>
+<a href="https://www.prisma.io/" title="Prisma"><img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" alt="Prisma"></a>
+
+<a href="https://docs.python.org/3/library/idle.html" title="Python IDLE"><img src="https://img.shields.io/badge/Python%20IDLE-3776AB?logo=python&logoColor=fff" alt="Python IDLE"></a>
+<a href="https://go.dev/" title="Go"><img src="https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white" alt="Go"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5"><img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML5"></a>
+<a href="https://www.haskell.org/" title="Haskell"><img src="https://img.shields.io/badge/Haskell-5e5086?logo=haskell&logoColor=white" alt="Haskell"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript"></a>
+<a href="https://www.json.org/" title="JSON"><img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff" alt="JSON"></a>
+<a href="https://jupyter.org/" title="Jupyter"><img src="https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter" alt="Jupyter"></a>
+<a href="https://www.php.net/" title="PHP"><img src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white" alt="PHP"></a>
+<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" alt="TypeScript"></a>
+<a href="https://github.com/" title="GitHub"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub"></a>
+<a href="httpshttps://pages.github.com/" title="GitHub Pages"><img src="https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white" alt="GitHub Pages"></a>
+
+<a href="https://docker.com/" title="Docker"><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" alt="Docker"></a>
+<a href="https://expo.dev/" title="Expo"><img src="https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff" alt="Expo"></a>
+
+<a href="https://aws.amazon.com/" title="AWS"><img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white" alt="AWS"></a>
+<a href="https://git-scm.com/" title="Git"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
+<a href="https://vercel.com/" title="Vercel"><img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white" alt="Vercel"></a>
 </p>
 
 ## 📊☁️ Data & Cloud
