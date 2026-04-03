@@ -8,17 +8,24 @@
 
 ### 💻 Mohamed.js
 ```javascript
-import { SoftwareEngineer } from 'Calgary/APEGA';
-import { NextJS, React, Stripe, Cloudflare } from 'Zaymar/Agency';
+// Mohamed.js
 
-const AboutMe = {
-  pronouns: "he/him",
-  designation: "EIT (Engineer-in-Training)",
-  currentProject: "Prysm (E-commerce Platform)",
-  learning: ["AWS Solutions Architect", "ML Quant Finance"],
-  hobbies: ["Crochet", "Sudoku"]
+import { DataPipelines, RealTimeSystems, ETL } from "core";
+
+const Mohamed = {
+  role: "Software Engineer (EIT)",
+  focus: [
+    "real-time data systems",
+    "telemetry",
+    "data pipelines"
+  ],
+  current: {
+    work: "Zaymar Creatives (data pipelines)",
+    project: "UCalgary Racing telemetry system",
+    learning: ["AWS", "Applied ML"]
+  }
 };
 
-export default function WorkWithMe() {
-  return "Building scalable, data-driven systems.";
-}
+export default () => {
+  return "Turning raw, fast-moving data into reliable systems.";
+};
