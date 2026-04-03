@@ -5,7 +5,6 @@
 </p>
 
 ---
-```markdown
 ### 💻 Mohamed.js
 
 <details open>
