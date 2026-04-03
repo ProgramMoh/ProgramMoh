@@ -11,7 +11,7 @@
 ```javascript
 // Mohamed.js
 
-import { DataPipelines, RealTimeSystems, ETL } from "core";
+import { DataPipelines, DataEngineering, BackendDev } from "core";
 
 const Mohamed = {
   role: "Software Engineer (EIT)",
