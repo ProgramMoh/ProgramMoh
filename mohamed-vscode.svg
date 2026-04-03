@@ -1,0 +1,71 @@
+<svg width="800" height="420" viewBox="0 0 800 420" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="420" rx="10" fill="#1e1e1e"/>
+
+  <!-- Top bar -->
+  <rect width="800" height="35" rx="10" fill="#2d2d2d"/>
+  <circle cx="20" cy="18" r="6" fill="#ff5f56"/>
+  <circle cx="40" cy="18" r="6" fill="#ffbd2e"/>
+  <circle cx="60" cy="18" r="6" fill="#27c93f"/>
+
+  <!-- Filename -->
+  <text x="90" y="23" fill="#cccccc" font-family="monospace" font-size="14">
+    Mohamed.js
+  </text>
+
+  <!-- Code -->
+  <g font-family="monospace" font-size="13">
+    <text x="20" y="60" fill="#6a9955">/* Mohamed.js */</text>
+
+    <text x="20" y="90">
+      <tspan fill="#569cd6">import</tspan>
+      <tspan fill="#d4d4d4"> { DataPipelines, DataEngineering, BackendDev } </tspan>
+      <tspan fill="#569cd6">from</tspan>
+      <tspan fill="#ce9178"> "core"</tspan><tspan fill="#d4d4d4">;</tspan>
+    </text>
+
+    <text x="20" y="120">
+      <tspan fill="#569cd6">const</tspan>
+      <tspan fill="#d4d4d4"> Mohamed = {</tspan>
+    </text>
+
+    <text x="40" y="145" fill="#9cdcfe">role</text>
+    <text x="120" y="145" fill="#d4d4d4">: </text>
+    <text x="135" y="145" fill="#ce9178">"Software Engineer (EIT)"</text><text x="380" y="145" fill="#d4d4d4">,</text>
+
+    <text x="40" y="170" fill="#9cdcfe">focus</text>
+    <text x="120" y="170" fill="#d4d4d4">: ["real-time data systems", "data analysis", "full stack web development"],</text>
+
+    <text x="40" y="195" fill="#9cdcfe">current</text>
+    <text x="120" y="195" fill="#d4d4d4">: {</text>
+
+    <text x="60" y="220" fill="#9cdcfe">working</text>
+    <text x="150" y="220" fill="#d4d4d4">: </text>
+    <text x="165" y="220" fill="#ce9178">"Zaymar Creatives (system development &amp; data pipelines)"</text><text x="630" y="220" fill="#d4d4d4">,</text>
+
+    <text x="60" y="245" fill="#9cdcfe">certifications</text>
+    <text x="200" y="245" fill="#d4d4d4">: </text>
+    <text x="215" y="245" fill="#ce9178">"Pursuing AWS Solutions Architect &amp; AI Practitioner"</text><text x="670" y="245" fill="#d4d4d4">,</text>
+
+    <text x="60" y="270" fill="#9cdcfe">learning</text>
+    <text x="150" y="270" fill="#d4d4d4">: ["SCADA Systems", "Applied ML", "Traffic Engineering"],</text>
+
+    <text x="60" y="295" fill="#9cdcfe">projects</text>
+    <text x="150" y="295" fill="#d4d4d4">: ["Prysm (E-com platform)[current]", "Formula RC Telemetry"],</text>
+
+    <text x="40" y="320" fill="#d4d4d4">},</text>
+    <text x="20" y="345" fill="#d4d4d4">};</text>
+
+    <text x="20" y="375">
+      <tspan fill="#569cd6">export default</tspan>
+      <tspan fill="#d4d4d4"> () =&gt; { </tspan>
+      <tspan fill="#6a9955">// Build → validate → scale</tspan>
+    </text>
+
+    <text x="40" y="400">
+      <tspan fill="#c586c0">return</tspan>
+      <tspan fill="#ce9178"> "Turning raw, fast-moving data into reliable systems."</tspan>
+      <tspan fill="#d4d4d4">;</tspan>
+    </text>
+  </g>
+</svg>
