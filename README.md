@@ -5,10 +5,8 @@
 </p>
 
 ---
-### 💻 Mohamed.js
-
 <details open>
-<summary><strong>View file</strong></summary>
+<summary><strong>View Mohamed.js</strong></summary>
 
 ```javascript
 // Mohamed.js
