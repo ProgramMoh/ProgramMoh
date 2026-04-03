@@ -5,10 +5,24 @@
 </p>
 
 ---
-
+```markdown
 ### 💻 Mohamed.js
+
+<details open>
+<summary><strong>View file</strong></summary>
+
 ```javascript
 // Mohamed.js
+
+import { DataPipelines, RealTimeSystems } from "core";
+
+const Mohamed = {
+  focus: ["real-time", "telemetry", "ETL"],
+  current: ["Zaymar", "UCalgary Racing"],
+};
+
+export default () => "Build → validate → scale";
+</details> ```
 
 import { DataPipelines, RealTimeSystems, ETL } from "core";
 
@@ -29,3 +43,4 @@ const Mohamed = {
 export default () => {
   return "Turning raw, fast-moving data into reliable systems.";
 };
+</details> ```
