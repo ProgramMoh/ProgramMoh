@@ -4,9 +4,10 @@
 
 
 <p align="center">
+  <a href="mailto:mgm.elnaggar@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
   <img src="https://img.shields.io/badge/Software%20Engineer-EIT-2ea44f?style=flat-square" />
   <img src="https://img.shields.io/badge/Location-Calgary-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Data%20%26%20Systems-informational?style=flat-square" />
+  <a href="https://www.linkedin.com/in/mgmelnaggar/" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
@@ -25,9 +26,10 @@ const Mohamed = {
   role: "Software Engineer (EIT)",
   focus: ["real-time data systems", "data analysis", "full stack web development"],
   current: {
-    work: "Zaymar Creatives (data pipelines)",
-    project: "UCalgary Racing telemetry system",
-    learning: ["AWS", "Applied ML"]
+    working: "Zaymar Creatives (system development & data pipelines)",
+    certifications: "Pursuing AWS Solutions Architect & AI Practitioner",
+    learning: ["SCADA Systems", "Applied ML", "Traffic Engineering"],
+    projects: ["Prysm (E-com platform)[current]", " Formula RC Telemetry", ""],
   },
 };
 
