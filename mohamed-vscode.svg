@@ -1,6 +1,6 @@
-<svg width="800" height="420" viewBox="0 0 800 420" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="475" viewBox="0 0 800 475" xmlns="http://www.w3.org/2000/svg">
   <!-- Background -->
-  <rect width="800" height="420" rx="10" fill="#1e1e1e"/>
+  <rect width="800" height="475" rx="10" fill="#1e1e1e"/>
 
   <!-- Top bar -->
   <rect width="800" height="35" rx="10" fill="#2d2d2d"/>
@@ -59,13 +59,17 @@
     <text x="20" y="375">
       <tspan fill="#569cd6">export default</tspan>
       <tspan fill="#d4d4d4"> () =&gt; { </tspan>
-      <tspan fill="#6a9955">// Build → validate → scale</tspan>
     </text>
 
     <text x="40" y="400">
+      <tspan fill="#6a9955">// Build → validate → scale</tspan>
+    </text>
+
+    <text x="40" y="425">
       <tspan fill="#c586c0">return</tspan>
       <tspan fill="#ce9178"> "Turning raw, fast-moving data into reliable systems."</tspan>
       <tspan fill="#d4d4d4">;</tspan>
     </text>
+    <text x="20" y="450" fill="#d4d4d4">}</text>
   </g>
 </svg>
