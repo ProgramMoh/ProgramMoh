@@ -16,26 +16,6 @@
 <summary><strong>📂 Mohamed.js</strong></summary>
 
 <br>
-
-```javascript
-/* Mohamed.js */
-
-import { DataPipelines, DataEngineering, BackendDev } from "core";
-
-const Mohamed = {
-  role: "Software Engineer (EIT)",
-  focus: ["real-time data systems", "data analysis", "full stack web development"],
-  current: {
-    working: "Zaymar Creatives (system development & data pipelines)",
-    certifications: "Pursuing AWS Solutions Architect & AI Practitioner",
-    learning: ["SCADA Systems", "Applied ML", "Traffic Engineering"],
-    projects: ["Prysm (E-com platform)[current]", " Formula RC Telemetry", ""],
-  },
-};
-
-export default () => {
-  // Build → validate → scale
-  return "Turning raw, fast-moving data into reliable systems.";
-};
-```
-</details>
+<p align="center" width="100vw">
+  <img src="./mohamed-vscode.svg" alt="Mohamed.js VS Code UI" />
+</p>
