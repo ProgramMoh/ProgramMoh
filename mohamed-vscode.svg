@@ -31,7 +31,7 @@
 
     <text x="40" y="145" fill="#9cdcfe">role</text>
     <text x="120" y="145" fill="#d4d4d4">: </text>
-    <text x="135" y="145" fill="#ce9178">"Software Engineer (EIT)"</text><text x="380" y="145" fill="#d4d4d4">,</text>
+    <text x="135" y="145" fill="#ce9178">"Software Engineer (EIT)"</text><text x="330" y="145" fill="#d4d4d4">,</text>
 
     <text x="40" y="170" fill="#9cdcfe">focus</text>
     <text x="120" y="170" fill="#d4d4d4">: ["real-time data systems", "data analysis", "full stack web development"],</text>
@@ -41,11 +41,11 @@
 
     <text x="60" y="220" fill="#9cdcfe">working</text>
     <text x="150" y="220" fill="#d4d4d4">: </text>
-    <text x="165" y="220" fill="#ce9178">"Zaymar Creatives (system development &amp; data pipelines)"</text><text x="630" y="220" fill="#d4d4d4">,</text>
+    <text x="165" y="220" fill="#ce9178">"Zaymar Creatives (system development &amp; data pipelines)"</text><text x="605" y="220" fill="#d4d4d4">,</text>
 
     <text x="60" y="245" fill="#9cdcfe">certifications</text>
     <text x="200" y="245" fill="#d4d4d4">: </text>
-    <text x="215" y="245" fill="#ce9178">"Pursuing AWS Solutions Architect &amp; AI Practitioner"</text><text x="670" y="245" fill="#d4d4d4">,</text>
+    <text x="215" y="245" fill="#ce9178">"Pursuing AWS Solutions Architect &amp; AI Practitioner"</text><text x="625" y="245" fill="#d4d4d4">,</text>
 
     <text x="60" y="270" fill="#9cdcfe">learning</text>
     <text x="150" y="270" fill="#d4d4d4">: ["SCADA Systems", "Applied ML", "Traffic Engineering"],</text>
