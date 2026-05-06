@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=4FC08D&center=true&vCenter=true&width=720&lines=Uhhh...;Hello,+World!;I'm+Mohamed,+a+calgary+based+software+engineer;Co-Founder+of+Zaymar+Creatives;Interested+in+Data-Driven+Systems+and+Full-Stack+Development;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=4FC08D&center=true&vCenter=true&width=720&lines=Hello,+World!;I'm+Mohamed,+a+calgary+based+software+engineer;Co-Founder+of+Zaymar+Creatives;Interested+in+Data-Driven+Systems+and+Full-Stack+Development;" alt="Typing SVG" />
 </p>
 
 
@@ -12,7 +12,18 @@
 
 ---
 
-<details close>
+<p align="center">
+  <strong> Live Projects</strong><br><br>
+  <a href="https://www.zaymar.xyz" title="Zaymar Creatives"><img src="https://img.shields.io/badge/Zaymar%20Creatives-zaymar.xyz-4FC08D?style=for-the-badge&logoColor=white"/></a>
+  &nbsp;
+  <br><a href="https://www.fresnoautosales.com" title="Fresno Auto Sales"><img src="https://img.shields.io/badge/Fresno%20Auto%20Sales-fresnoautosales.com-1a56a0?style=for-the-badge&logoColor=white"/></a>
+  &nbsp;
+  <br><a href="https://myprysm.co" title="Prysm"><img src="https://img.shields.io/badge/Prysm-myprysm.co-8B5CF6?style=for-the-badge&logoColor=white"/></a>
+</p>
+
+---
+
+<details open>
 <summary><strong>📂 Mohamed.js</strong></summary>
 
 <br>
