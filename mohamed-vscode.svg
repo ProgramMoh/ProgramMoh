@@ -51,7 +51,7 @@
     <text x="150" y="270" fill="#d4d4d4">: ["SCADA Systems", "Applied ML", "Traffic Engineering"],</text>
 
     <text x="60" y="295" fill="#9cdcfe">projects</text>
-    <text x="150" y="295" fill="#d4d4d4">: ["Prysm (E-com platform)[current]", "Formula RC Telemetry"],</text>
+    <text x="150" y="295" fill="#d4d4d4">: ["Attune (Current)", "Fresno Auto Sales", "Prysm", "Formula Car Telemetry"],</text>
 
     <text x="40" y="320" fill="#d4d4d4">},</text>
     <text x="20" y="345" fill="#d4d4d4">};</text>
